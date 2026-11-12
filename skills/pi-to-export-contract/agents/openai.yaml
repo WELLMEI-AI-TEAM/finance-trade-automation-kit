@@ -1,0 +1,4 @@
+interface:
+  display_name: "PI转出口合同"
+  short_description: "根据PI、订单确认书和购货合同保留原样制作出口合同并逐项核验"
+  default_prompt: "使用 $pi-to-export-contract，根据我提供的PI、订单确认书和购货合同，按已确认规则生成出口合同并核验。"
