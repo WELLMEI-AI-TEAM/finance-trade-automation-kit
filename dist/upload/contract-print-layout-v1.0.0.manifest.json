@@ -1,0 +1,16 @@
+{
+  "skill": "contract-print-layout",
+  "version": "1.0.0",
+  "archive": "contract-print-layout-v1.0.0.zip",
+  "sha256": "230fac8b08a911ed317b38e8cb01fd01de0ccdd213c923454cc102ea13c16596",
+  "files": {
+    "LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "SKILL.md": "db9e1ff7467e69583b19c7aefa446c6787a2dfeaa5226ecc1dfa276dc351bc3e",
+    "agents/openai.yaml": "c8e00af4a183c06eb73e14e15c7fb6b62cc88fd72917701470d7ec144965b762",
+    "requirements.txt": "6bceda3bc02b22fadfa7aa305dcfa9e41971b797ef7c8dda58db2420f7ead6dc",
+    "scripts/cleanup_native.ps1": "4feccaae95e89ba97ed9bb70c87b3e6444117cc375e30cdfd4c097fabd1b9611",
+    "scripts/native_print.ps1": "7c28d7dab0b74d2055affc30b047b8cb81ff7e4d147ab683c403c22f8b4cf082",
+    "scripts/print_contracts.py": "8f993b944211bf270ae8d056a25c6a6b56314ba047bd25b000795f879a3eade5",
+    "scripts/print_patch.py": "e145334ac38adff8899a851184a4f98ebbd41f3f99af47263e66e418c3d133eb"
+  }
+}

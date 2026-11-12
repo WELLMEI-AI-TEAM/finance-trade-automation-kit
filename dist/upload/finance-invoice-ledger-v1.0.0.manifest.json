@@ -1,0 +1,25 @@
+{
+  "skill": "finance-invoice-ledger",
+  "version": "1.0.0",
+  "archive": "finance-invoice-ledger-v1.0.0.zip",
+  "sha256": "e641ba17b2b99f773b855eab69b32458c33921dc80a4521f36e6d1407de5bf84",
+  "files": {
+    "LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "SKILL.md": "bd6e9e0e90567d902ecd42bed837ef5dd8d202a0c912183dbfa4395db276bee8",
+    "agents/openai.yaml": "c1e30cdfd5fd6b80edc2a673d0808d13713353b1e249fee49f54904bd3f48159",
+    "references/archive-dedup.md": "47be6f2940bc483f33f685b0aee6149a00e15e4b318bc63415208accb47bb2a0",
+    "references/configuration.md": "f091ae748b8f96585165326e01a165c976c7fb04c52ba4160912686d5b084913",
+    "references/secondary-review.md": "779d8ad50bec4f5a0ea77ff3752e689d964fc366f63d1cf1c581e9950ddaf752",
+    "references/workspace-setup.md": "bee2026e1cf0e41305a6bc17f6df67e81a14ee856f615f700c7befc7e5d45e71",
+    "requirements.txt": "9b738415714dbbddc6a143c1e15a9475219f9b3568a15ab90cab98c1e15da382",
+    "scripts/archive_index.py": "93c02f200e392a7d7193c36cc98a7ba8deabb06c112637dec8b643222c2fdb2a",
+    "scripts/backup_storage.py": "1a6c063971c7f490d030d3988df8932270e90dd963dbab1aa8059b51039b5b8d",
+    "scripts/exception_storage.py": "424b0218995f84b62c5baec4358b2c49c7327df326ef5a92d45eed453097acb0",
+    "scripts/input_cleanup.py": "522e34ec8c676b22dbeb2e75a865175f1bc6840857d20b4bb6e85aaf53ae52f4",
+    "scripts/run_finance.py": "b06bcf1e93d559c2f019575ded3ad42781c9ddffa3b26dcc177baf00eae388ce",
+    "scripts/run_invoice_workflow.py": "04ccdd77ee820a1b43537fe9e3e65e38c1f580b960433d9f1c3b3926f32a9a7a",
+    "scripts/run_workspace.py": "bf765847b41c0fc6a818aed910d2498dbf7aaeb0312a21a0a58d0a9338e6db08",
+    "scripts/setup_workspace.py": "148fa510309c89d3a80b0d940bfc68f9e5c0e5d8c850e150eebd181bc93148ee",
+    "scripts/workspace_runtime.py": "550943aaede9af72275775336540069c3627d0e352d57e67bf4899f5fd13ea17"
+  }
+}

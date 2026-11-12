@@ -1,0 +1,18 @@
+{
+  "skill": "pi-to-export-contract",
+  "version": "1.0.0",
+  "archive": "pi-to-export-contract-v1.0.0.zip",
+  "sha256": "a599e3c5fc8fe2e3062049ea5a3ef6a01aea3757eaa2db31983dfcc825f4e770",
+  "files": {
+    "LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "SKILL.md": "7ee284cb3e1506ca418ee19ccee03fd24151489cf34a683f708bce0245a7390d",
+    "agents/openai.yaml": "b1680245b88d4b5328a42dffe4e7f424b625d6b49977fc4822f5911f360273f3",
+    "references/batch-workflow.md": "ce8237c212c1d12a7f2dafb0106db952fdb74b99e2a29da93e4cd2cb9b4d76af",
+    "references/excel-workflow.md": "1e0be1746a5a3811ecdc34a282a4d52706e0eafb64ca3ee8ebc5a4b39925c51b",
+    "requirements.txt": "9c2ac2c5ad72b1d93536ff3cad6a321d452a23537ff5d97fccde32b375f5c864",
+    "scripts/apply_excel_plan.ps1": "177cf80bee6c25102bd792060c9659e4166b0d5ac30fecdb11f2ae875f3a41b4",
+    "scripts/apply_ooxml_plan.py": "008cd158ac5ded9339223e1e69bee9204140dcc9f593b0b9f149c856f26e36f5",
+    "scripts/audit_xls.py": "4fc1460a9aa10fe78990a733ec2dc63fc60fabe21ce78e01f9cc75af46ef6170",
+    "scripts/prepare_batch.py": "56f2b3e45d385c900601a835d2aa5046554474d7108e99c1cf654d6b5ba8e96e"
+  }
+}
