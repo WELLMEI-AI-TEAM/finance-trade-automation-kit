@@ -1,0 +1,4 @@
+interface:
+  display_name: "财务发票台账"
+  short_description: "财务账户独立处理真实发票、固定目录归档与台账追加，支持去重和恢复"
+  default_prompt: "使用 $finance-invoice-ledger 处理已绑定工作区中的新增发票；首次使用先询问我在哪个目录下建立台账处理。查重覆盖发票目录下所有月份，按系统规则处理和复核异常。"
