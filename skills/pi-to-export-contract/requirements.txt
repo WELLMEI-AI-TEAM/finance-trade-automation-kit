@@ -1,0 +1,3 @@
+# OOXML editing and batch backup use the Python standard library.
+# xlrd is required for independent XLS/BIFF auditing.
+xlrd>=2,<3
