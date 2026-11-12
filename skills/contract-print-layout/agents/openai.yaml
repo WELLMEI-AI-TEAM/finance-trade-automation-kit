@@ -1,0 +1,4 @@
+interface:
+  display_name: "合同打印整理"
+  short_description: "批量整理Excel合同的A4缩放与分页，核验后生成清晰完整的打印副本和PDF"
+  default_prompt: "使用 $contract-print-layout 整理指定目录的合同打印设置，保留原件，核验后生成Excel打印版和PDF。"
